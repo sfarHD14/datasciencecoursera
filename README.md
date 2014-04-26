@@ -1,4 +1,4 @@
-StatDataLearning
+datasciencecoursera
 ================
 
 Data Science Certification
